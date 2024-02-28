@@ -72,7 +72,7 @@ const FileUploadForm = () => {
       const formData = new FormData();
       formData.append('file', selectedFile);
 
-      const response = await axios.post('http://localhost:3000/upload', formData, {
+      const response = await axios.post('http://localhost:3000/api/upload', formData, {
         headers: {
           'Content-Type': 'multipart/form-data'
         }
@@ -122,7 +122,7 @@ const FileUploadForm = () => {
       const formData = new FormData();
       formData.append('file', selectedFile);
 
-      const response = await fetch('http://localhost:3000/upload', {
+      const response = await fetch('http://localhost:3000/api/upload', {
         method: 'POST',
         body: formData
       });
