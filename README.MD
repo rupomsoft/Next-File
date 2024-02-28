@@ -5,7 +5,7 @@ npm i next-file
 // Using yarn 
 yarn add next-file
 ```
-![next-file.png](next-file.png)
+![next-file.png](next-file.jpg)
 Features:
 - File Upload: Easily upload files to your Next.js server with minimal configuration.
 - File Deletion: Delete files from your server effortlessly when they are no longer required.
