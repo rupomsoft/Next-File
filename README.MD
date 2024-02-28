@@ -1,10 +1,15 @@
 Next-File is a lightweight npm package tailored for file management within Next.js applications. It simplifies the process of uploading files to your Next.js server and provides an easy-to-use interface for deleting files when they are no longer needed. With seamless integration into Next.js projects, this package offers robust functionality to handle file uploads and deletions efficiently, enhancing the development experience for Next.js developers.
 
+#### Install Using NPM
 ```javascript
 npm i next-file
-// Using yarn 
+```
+#### Install Using Yarn
+```javascript
 yarn add next-file
 ```
+
+
 ![next-file.png](next-file.jpg)
 Features:
 - File Upload: Easily upload files to your Next.js server with minimal configuration.
