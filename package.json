@@ -1,6 +1,6 @@
 {
   "name": "next-file",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Next-File is a lightweight npm package tailored for file management within Next.js applications. It simplifies the process of uploading files to your Next.js server and provides an easy-to-use interface for deleting files when they are no longer needed. With seamless integration into Next.js projects, this package offers robust functionality to handle file uploads and deletions efficiently, enhancing the development experience for Next.js developers.",
   "main": "index.js",
   "type": "module",
